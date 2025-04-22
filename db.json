@@ -1,0 +1,23 @@
+{
+  "users": [
+              {
+                "id": 1,
+                "name": "Lê Mai Minh Trọng",
+                "email": "leetrong4@gmail.com",
+                "phone": "0967630387",
+                "avatar": "https://example.com/avatars/Trong.jpg",
+                "dateOfBirth": "2004-03-01T00:00:00.000Z"
+              }
+ ],
+  
+"accounts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "username": "l3245dws4",
+      "password": "Thanhvovet12345",
+      "status": "active",
+      "lastLogin": "2025-04-02T08:15:30.000Z",
+      "createdAt": "2023-05-01T00:00:00.000Z"
+    }
+}
